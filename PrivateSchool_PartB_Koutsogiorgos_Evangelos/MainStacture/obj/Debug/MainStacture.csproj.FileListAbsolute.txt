@@ -1,0 +1,10 @@
+C:\Users\wwwev\Desktop\test2\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\bin\Debug\MainStacture.dll
+C:\Users\wwwev\Desktop\test2\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\bin\Debug\MainStacture.pdb
+C:\Users\wwwev\Desktop\test2\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.csprojAssemblyReference.cache
+C:\Users\wwwev\Desktop\test2\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.dll
+C:\Users\wwwev\Desktop\test2\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.pdb
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\bin\Debug\MainStacture.dll
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\bin\Debug\MainStacture.pdb
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.csprojAssemblyReference.cache
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.dll
+C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\MainStacture\obj\Debug\MainStacture.pdb
