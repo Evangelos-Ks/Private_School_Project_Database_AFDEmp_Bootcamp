@@ -2,9 +2,7 @@
 using Services;
 using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace PrivateSchool_PartB_Koutsogiorgos_Evangelos
 {
@@ -27,8 +25,8 @@ namespace PrivateSchool_PartB_Koutsogiorgos_Evangelos
             ServiceInsert serviseInsert = new ServiceInsert();
             ServiceCheck serviceCheck = new ServiceCheck();
 
-            string userInput1, userInput2 = "", userInput3 = "", userInput5 = "";
-            int userInput4, selectCourse, selectStudent;
+            string userInput2 = "", userInput3 = "", userInput5 = "";
+            int selectCourse;
 
 
             do

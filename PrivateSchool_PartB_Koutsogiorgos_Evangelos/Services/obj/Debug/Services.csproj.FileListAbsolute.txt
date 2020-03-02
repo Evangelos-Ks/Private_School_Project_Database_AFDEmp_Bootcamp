@@ -14,3 +14,11 @@ C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\Individual
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.csproj.CopyComplete
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.dll
 C:\Evangelos\Archive\Education\4. Programming languages\C#\PeopleCert\IndividualProjectPartB\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.pdb
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\bin\Debug\Services.dll
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\bin\Debug\Services.pdb
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\bin\Debug\MainStacture.dll
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\bin\Debug\MainStacture.pdb
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.csprojAssemblyReference.cache
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.csproj.CopyComplete
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.dll
+C:\Users\wwwev\Desktop\Lab\git pull lab\Private_School_Project_Database_AFDEmp_Bootcamp\PrivateSchool_PartB_Koutsogiorgos_Evangelos\Services\obj\Debug\Services.pdb

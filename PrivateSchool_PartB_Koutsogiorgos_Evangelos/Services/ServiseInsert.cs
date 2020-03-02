@@ -4,8 +4,7 @@ using System.Collections.Generic;
 using System.Configuration;
 using System.Data.SqlClient;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Services
 {
@@ -523,47 +522,5 @@ namespace Services
             }
         }
 
-        public void InsertAssignmentsPerCoursePerStudent(int cid, int sid, int aid)
-        {
-            ServiceGet serviceGet = new ServiceGet();
-            List<Assignment> assignment = serviceGet.GetAllAssignments().Where(x => x.Cid == cid).ToList();
-
-            if (cid == assignment[0].Cid)
-            {
-                //InsertAssignmentAtStudent(5,3);
-            }
-        }
-
-        public void InsertAssignmentAtStudent(int aid, int sid)
-        {
-            ServiceGet serviceGet = new ServiceGet();
-            //List<Assignment> assignments;
-            List<Assignment> assignment;
-
-
-            assignment = serviceGet.GetAllAssignments().Where(x => x.Aid == aid).ToList();
-
-            string qr = "insert into StudentAssignment (Sid, Aid) values(@Sid, @dAid)";
-
-            using (SqlConnection con = new SqlConnection(conString))
-            {
-                SqlCommand cmd = new SqlCommand(qr, con);
-
-                cmd.Parameters.AddWithValue("@Sid", sid);
-                cmd.Parameters.AddWithValue("@dAid", aid);
-
-                try
-                {
-                    con.Open();
-                    cmd.ExecuteNonQuery();
-                    Console.WriteLine();
-                    Console.WriteLine("\tRecords Inserted Successfully");
-                }
-                catch (SqlException e)
-                {
-                    Console.WriteLine("Error Generated. Details: " + e.ToString());
-                }
-            }
-        }
     }
 }

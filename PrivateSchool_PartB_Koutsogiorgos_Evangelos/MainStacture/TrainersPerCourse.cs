@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
+
 
 
 namespace MainStacture
@@ -10,10 +10,7 @@ namespace MainStacture
         private string courseTitle;
         private string firstName;
         private string lastName;
-        Course course;
-        public List<Trainer> trainersPerCourse { get; set; } = new List<Trainer>();
-        int userSelectTrainer;
-        string addAnotherTrainerfromList;
+
 
         public TrainersPerCourse() { }
         public TrainersPerCourse(string courseTitle, string firstName, string lastName)

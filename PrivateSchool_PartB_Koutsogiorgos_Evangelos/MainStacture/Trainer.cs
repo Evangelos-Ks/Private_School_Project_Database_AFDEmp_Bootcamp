@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace MainStacture
 {
@@ -31,47 +29,6 @@ namespace MainStacture
         }
 
         //Methods==============================================================================================================
-        public void InputTrainer()
-        {
-            string addAnotherTrainer = "";
-
-            do
-            {
-                Trainer trainer = new Trainer();
-
-                Console.ForegroundColor = ConsoleColor.Yellow;
-                Console.WriteLine();
-                Console.WriteLine("\tNew trainer");
-                Console.WriteLine();
-                Console.ForegroundColor = ConsoleColor.White;
-
-                //Input fields
-                Console.WriteLine();
-                Console.Write("\tFirst Name : ");
-                trainer.firstName = Console.ReadLine();
-
-                Console.Write("\tLast Name : ");
-                trainer.lastName = Console.ReadLine();
-
-                Console.Write("\tSubject : ");
-                trainer.subject = Console.ReadLine();
-
-                trainers.Add(trainer);
-
-                //Ask to continue
-                do
-                {
-                    Console.WriteLine();
-                    Console.Write("\tWould you like to add another course? Y/N : ");
-                    addAnotherTrainer = Console.ReadLine();
-                } while (addAnotherTrainer.ToUpper() != "Y" && addAnotherTrainer.ToUpper() != "N");
-
-            } while (addAnotherTrainer.ToUpper() != "N");
-
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine("\n\t=================================================================================\n");
-            Console.ForegroundColor = ConsoleColor.White;
-        }
 
         //Output list of trainers---------------------------------------------------------------------------------------
         public void ListOfTrainersOutput(List<Trainer> trainers)
